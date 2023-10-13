@@ -1,0 +1,60 @@
+.review{
+    border-style: inherit;
+    box-shadow: 0 0 20px darkmagenta;
+    border-radius: 20px;
+    font-size: large;
+    margin: 10px;
+    padding: 20px;
+    max-width: 400px;
+    min-height: 500px;
+}
+.review_group{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.photo1{
+    background: url(https://sun9-37.userapi.com/impg/wWTcwQq61y2wsQ54VubGpLNs7gLY5XIImOQ8Dw/C76Qz7Kfm4k.jpg?size=1607x2160&quality=96&sign=04093c8182a9da1c57efe3ed14225876&type=album) center no-repeat;
+    width: 100px;
+    height: 100px;
+    background-size: cover;
+    border-radius: 50%;
+    margin-bottom: 10pt;
+}
+.photo2{
+    background: url(https://sun9-34.userapi.com/impg/6fUC0VKamDBcI4N06czT_e_Ehhlqu4fqmSTocA/IwK0-Eb1DaM.jpg?size=1620x2160&quality=95&sign=6a1bfd33c07a99153bea376d10610f99&type=album) center no-repeat;
+    width: 100px;
+    height: 100px;
+    background-size: cover;
+    border-radius: 50%;
+    margin-bottom: 10pt;
+}
+.photo3{
+    background: url(https://sun9-25.userapi.com/impg/7JRvt624X2oeQzwzu498SZSh4XLqrgdeBp03-g/8Kra4331_LU.jpg?size=1620x2160&quality=95&sign=9a7c9c3ef914395499d0468225980cce&type=album) center no-repeat;
+    width: 100px;
+    height: 100px;
+    background-size: cover;
+    border-radius: 50%;
+    margin-bottom: 10pt;
+}
+.photo4{
+    background: url(https://sun9-12.userapi.com/impg/CNBHSq7MAuFapDs3E2nzf5qdVk5DDrSD372RAA/XBs43XM8Ol4.jpg?size=2560x1707&quality=95&sign=691249683369431f845036bcf8c59531&type=album) center no-repeat;
+    width: 100px;
+    height: 100px;
+    background-size: cover;
+    border-radius: 50%;
+    margin-bottom: 10pt;
+}
+main{
+    margin-left: 20pt;
+    margin-right: 20pt;
+}
+h1{
+    margin-left: 5pt;
+}
+footer{
+    margin-left: 20pt;
+    margin-right: 20pt;
+}
